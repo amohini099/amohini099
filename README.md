@@ -1,8 +1,8 @@
 
 -->
 ### Hi there , <img src="images\tenor.gif" alt="hi" width="35px" height="35px">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome +To+My+Github...;I+am+on+way+of+learning)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+Github...;I+am+on+way+of+learning)](https://git.io/typing-svg)
 
  <img src="images\My project-1.png" alt="hi">
  
