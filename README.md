@@ -73,9 +73,9 @@
 
 ### :octocat: GitHub Statistics
 
-![Profile views](https://gpvc.arturio.dev/quantumudit) [![Repos Badge](https://badges.pufler.dev/repos/quantumudit)](https://badges.pufler.dev)
+![Profile views](https://gpvc.arturio.dev/amohini099) [![Repos Badge](https://badges.pufler.dev/repos/amohini099)](https://badges.pufler.dev)
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quantumudit&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Udit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantumudit&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=Udit's%20GitHub%20Stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amohini099&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Mohini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amohini099&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs&custom_title=mohini's%20GitHub%20Stats) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
@@ -91,15 +91,6 @@ I love sharing knowledge and putting posts, blogs and videos together for helpin
 
 <!--END_SECTION:waka-->
 
-
-
-<!-- Shields Profile Links -->
-
-[linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
-[twitterbadge]: https://img.shields.io/badge/-@quantumudit-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit
-[skypebadge]: https://img.shields.io/badge/-quantumudit-00AFF0?style=flat&labelColor=00AFF0b&logo=skype&logoColor=white
-[gmailbadge]: https://img.shields.io/badge/-quantumudit-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white
-[youtubebadge]: https://img.shields.io/badge/-quantumdata-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white
 
 <!-- Top Technology Badges -->
 
@@ -153,10 +144,10 @@ I love sharing knowledge and putting posts, blogs and videos together for helpin
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amohini099)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=quantumudit&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amohini099&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quantumudit&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amohini099&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 -->
