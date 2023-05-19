@@ -17,14 +17,14 @@
 ## Data analysis and science projects (supply chain)
 ### Trasportation
 1.Analysing transportation using Graph theory (Article )🔗 
-<a href = "http://mohinisdatadigest.liveblog365.com/2023/05/19/analyzing-transportation-networks-using-graph-theory/" >
+<a href = "http://mohinisdatadigest.liveblog365.com/2023/05/19/analyzing-transportation-networks-using-graph-theory/" target="_blank" >
  
 2.Create a way to track shipments by making a tool that uses a Telegram Bot (Article )🔗 
- <a href = "http://mohinisdatadigest.liveblog365.com/2023/05/10/create-a-way-to-track-shipments-by-making-a-tool-that-uses-a-telegram-bot/" >
+ <a href = "http://mohinisdatadigest.liveblog365.com/2023/05/10/create-a-way-to-track-shipments-by-making-a-tool-that-uses-a-telegram-bot/" target="_blank" >
  
 ### NLP
  1. AI Chatbot using OPEN AI’s Chat GPT API (Article )🔗 
-  <a href = "http://mohinisdatadigest.liveblog365.com/2023/04/20/ai-chatbot-using-open-ais-chat-gpt-api/" >
+  <a href = "http://mohinisdatadigest.liveblog365.com/2023/04/20/ai-chatbot-using-open-ais-chat-gpt-api/" target="_blank" >
  
 ### 👨🏽‍💻 Top Technologies
 
