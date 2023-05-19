@@ -14,16 +14,27 @@
 - 📫 How to reach me: linkedin.com/in/mohini-k-7941815a ...
 - ⚡ Fun fact: Apart from digging the data; I love to explore yoga & cooking
 
+#### 📰 Personal Blog
+<p align="center">
+  <a href="[https://www.samirsaci.com](http://mohinisdatadigest.liveblog365.com/home/)">
+  <img height=50px align="center" src="[http://mohinisdatadigest.liveblog365.com/blog/]">
+  </a>
+</p>
+
+[Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing 📦, Transportation 🚚 and Demand Forecasting
+
 ## Data analysis and science projects (supply chain)
 ### Trasportation
-1.Analysing transportation using Graph theory (Article )🔗 
-<a href = "http://mohinisdatadigest.liveblog365.com/2023/05/19/analyzing-transportation-networks-using-graph-theory/" target="_blank" >
- </a>
+1.Analysing transportation using Graph theory ([Article](http://mohinisdatadigest.liveblog365.com/2023/05/19/analyzing-transportation-networks-using-graph-theory))🔗 
  
-2.Create a way to track shipments by making a tool that uses a Telegram Bot (Article )🔗 
- <a href = "http://mohinisdatadigest.liveblog365.com/2023/05/10/create-a-way-to-track-shipments-by-making-a-tool-that-uses-a-telegram-bot/" target="_blank" >
- </a>
- 
+2.Create a way to track shipments by making a tool that uses a Telegram Bot ([Article](http://mohinisdatadigest.liveblog365.com/2023/05/10/create-a-way-to-track-shipments-by-making-a-tool-that-uses-a-telegram-bot/"))🔗 
+
+
+#### Retail Sales Forecasting [📈](https://www.samirsaci.com/tag/inventory-management/)
+- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Article](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
+- Machine Learning for Retail Demand Forecasting: ([Article](https://www.samirsaci.com/machine-learning-for-retail-demand-forecasting/))
+- Machine Learning for Store Delivery Scheduling: ([Article](https://www.samirsaci.com/machine-learning-for-store-delivery-scheduling/))
+- 
 ### NLP
  1. AI Chatbot using OPEN AI’s Chat GPT API (Article )🔗 
   <a href = "http://mohinisdatadigest.liveblog365.com/2023/04/20/ai-chatbot-using-open-ais-chat-gpt-api/" target="_blank" >
