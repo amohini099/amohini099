@@ -25,16 +25,16 @@
 
 ## Data analysis and science projects (supply chain)
 ### Trasportation
-1.Analysing transportation using Graph theory ([Article](http://mohinisdatadigest.liveblog365.com/2023/05/19/analyzing-transportation-networks-using-graph-theory))🔗 
+1.Analysing transportation using Graph theory: ([Article](http://mohinisdatadigest.liveblog365.com/2023/05/19/analyzing-transportation-networks-using-graph-theory))🔗 ([Github Repository](https://github.com/amohini099/Analysing-Transortation-in-supply-chain-using-Graph-Theory))
  
-2.Create a way to track shipments by making a tool that uses a Telegram Bot ([Article](http://mohinisdatadigest.liveblog365.com/2023/05/10/create-a-way-to-track-shipments-by-making-a-tool-that-uses-a-telegram-bot/"))🔗 
+2.Create a way to track shipments by making a tool that uses a Telegram Bot: ([Article](http://mohinisdatadigest.liveblog365.com/2023/05/10/create-a-way-to-track-shipments-by-making-a-tool-that-uses-a-telegram-bot/"))🔗 ([Github Repository](https://github.com/amohini099/telegram-bot)) 
 
 
 #### Retail Sales Forecasting [📈](https://www.samirsaci.com/tag/inventory-management/)
-- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Article](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
-- Machine Learning for Retail Demand Forecasting: ([Article](https://www.samirsaci.com/machine-learning-for-retail-demand-forecasting/))
-- Machine Learning for Store Delivery Scheduling: ([Article](https://www.samirsaci.com/machine-learning-for-store-delivery-scheduling/))
-- 
+- Machine Learning for Retail Sales Forecasting — Features Engineering:  
+- Machine Learning for Retail Demand Forecasting: ([Github Repository](https://github.com/amohini099/Demand-Forcasting/blob/main/demand-forecasting-by-using-lightgbm.ipynb)
+- Machine Learning for Store Delivery Scheduling: 
+
 ### NLP
  1. AI Chatbot using OPEN AI’s Chat GPT API (Article )🔗 
   <a href = "http://mohinisdatadigest.liveblog365.com/2023/04/20/ai-chatbot-using-open-ais-chat-gpt-api/" target="_blank" >
